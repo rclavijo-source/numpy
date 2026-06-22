@@ -1,3 +1,5 @@
+Edición archivo .py
+
 from typing import Literal, Never, TypedDict, final, overload, type_check_only
 
 import numpy as np
