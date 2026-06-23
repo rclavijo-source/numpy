@@ -1,3 +1,9 @@
+The Rivian R1, in both its pick 'em up R1T truck form and family-focused R1S SUV shape, has proven to be a strong statement from the plucky EV company based in Normal, IL. While sales volume and profitability still elude the startup, the original design and high quality of both those models show that this was not to be a one-and-done disaster like Fisker.
+
+Rivian's follow-up act is the unimaginatively named R2, this time only available as a two-row, five-seater SUV. It's smaller and less powerful, but a $57,990 starting price for the top-shelf Performance trim makes it substantially cheaper than the $76,990-and-up R1S. This, then, is Rivian's first volume play, and after a day spent behind the wheel, I'm happy to say it's far from a downgrade.
+
+Read More: https://www.engadget.com/2188202/2027-rivian-r2-first-drive/
+
 import argparse
 import sys
 from pathlib import Path
