@@ -1,3 +1,16 @@
+Getting into the R2 is certainly a bit easier than either an R1T or R1S, which require a bit of a climb for many to enter. In the R2, you just open the door and sit down. But don't think that means this isn't a proper off-road machine.
+
+The R2 still offers 9.6 inches of ground clearance and a 25-degree approach angle, with a 26-degree departure angle. During my time in and around Park City, Utah, I ran the R2 through a reasonably challenging off-road course featuring numerous steep ascents, descents, stretches of bare rock and a fair few river crossings.
+
+It handled it all with aplomb, and that's despite having a relatively simple drivetrain layout. The R2 uses a pair of motors, one for each axle, with basic, open differentials sending power out to the wheels. Open differentials aren't ideal for off-roading, because if one wheel starts to spin, the opposite wheel gets no power.
+
+Read More: https://www.engadget.com/2188202/2027-rivian-r2-first-drive/
+
+
+
+
+
+
 """
 Module defining global singleton classes.
 
